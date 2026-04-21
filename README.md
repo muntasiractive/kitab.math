@@ -1,4 +1,4 @@
-![Kitab.Math Banner](assets/banner.png)
+![Kitab.Math Banner](assets/banner.png) 
 
 <div align="center">
 
