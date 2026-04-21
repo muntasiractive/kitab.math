@@ -1,6 +1,6 @@
-![Kitab.Math Banner](assets/banner.png) 
-
 <div align="center">
+
+![Kitab.Math Banner](assets/banner.png) 
 
 # Kitab.Math
 
